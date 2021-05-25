@@ -6,15 +6,21 @@ package com.br.zup;
 public class Main {
 
     public static void main(String[] args) {
-	// imprimir a idade
-        int idade = 33;
-        System.out.println(idade);
+	// Na empresa onde trabalhamos, há tabelas com o quanto foi gasto em cada mês. Para fechar o balanço do
+    // primeiro trimestre, precisamos somar o gasto total. Sabendo que, em Janeiro, foram gastos 15000 reais, em
+    // Fevereiro, 23000 reais e em Março, 17000 reais, faça um programa que calcule e imprima o gasto total no
+    // trimestre e a média mensal de gastos.
+        Double janeiro = 15.000;
+        Double fevereiro = 23.000;
+        Double marco = 17.000;
 
-        // somar a idade no ano seguinte
-        int idadeNoAnoSeguinte;
-        idadeNoAnoSeguinte = idade + 1;
+        Double somaTrimestre = janeiro + fevereiro + marco;
+        System.out.println(somaTrimestre);
 
-        //imprime a idade
-        System.out.println(idadeNoAnoSeguinte);
+        // media mensal de gastos
+        Double mediaMensal;
+        mediaMensal =  somaTrimestre / 3;
+        System.out.println(mediaMensal);
+
     }
 }
