@@ -21,6 +21,5 @@ public class Main {
         Double mediaMensal;
         mediaMensal =  somaTrimestre / 3;
         System.out.println(mediaMensal);
-
     }
 }
