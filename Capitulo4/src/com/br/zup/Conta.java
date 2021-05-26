@@ -3,7 +3,7 @@ package com.br.zup;
 public class Conta {
 
     // definição de atributos
-    int numero;
+    int numero; // se definirmos int numero = 200, ele será um atributo "populado" ou seja será um valor padrão.
     String titular;
     double saldo;
     double salario;
