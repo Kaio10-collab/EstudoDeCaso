@@ -19,7 +19,7 @@ public class Programa {
         Cliente banco = new Cliente();
         minhaConta2.titular = banco.nome;
 /**
- * LEMBRANDO QUE A VARIÁVEL NUNCA É UM OBJETO.
+ * LEMBRANDO QUE A VARIÁVEL NUNCA É UM OBJETO. "uma variável nunca carrega um objeto, e sim uma referência para ele"
  */
         Conta meuSonho;
         meuSonho = new Conta(); // new, depois de alocar a memória para esse objeto, devolve uma "flecha", isto é,
