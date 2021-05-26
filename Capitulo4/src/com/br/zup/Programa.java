@@ -6,6 +6,18 @@ public class Programa {
         // Estou criando a conta
         Conta minhaConta; // minhaConta é uma variável referência.
         minhaConta = new Conta(); // Estamos dizemos que a minhaConta é uma referência ao objeto Conta.
+
+        Conta c1 = new Conta();
+        c1.titular = "Kaio";
+        c1.saldo = 227;
+
+        Conta c2 = new Conta();
+        c2.titular = "Tai";
+        c2.saldo = 227;
+
+        Conta minhaConta2 = new Conta();
+        Cliente banco = new Cliente();
+        minhaConta2.titular = banco.nome;
 /**
  * LEMBRANDO QUE A VARIÁVEL NUNCA É UM OBJETO.
  */
@@ -26,5 +38,8 @@ public class Programa {
         // deposistando valor no saldo
         minhaConta.depositaSaldo(500);
         System.out.println(minhaConta.saldo);
+
+        // transferindo saldo da conta1 kaio para a conta2 Tai.
+        c1.transfere(c2,100);
     }
 }
