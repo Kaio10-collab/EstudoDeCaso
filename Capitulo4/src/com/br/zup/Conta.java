@@ -27,4 +27,16 @@ public class Conta {
             return true;
         }
     }
+
+    boolean transfere(Conta destino, double valor){
+        boolean retirou = this.saca(valor);
+        if (retirou == false){
+            // não deu pra sacar!
+            return false;
+        }
+        else {
+            destino.depositaSaldo(valor);
+            return true;
+        }
+    }
 }

@@ -23,9 +23,8 @@ public class Programa {
         // sacar valor do saldo
         minhaConta.sacaSaldo(200);
 
-        // deposistando valor no sald
+        // deposistando valor no saldo
         minhaConta.depositaSaldo(500);
         System.out.println(minhaConta.saldo);
     }
-
 }
