@@ -12,7 +12,7 @@ public class Gerentes extends Funcionario {
     @Override //chamado de anotação. Há como deixar explícito no seu código que um determinado método é a reescrita de um método da sua classe mãe.
     public double getBonificacao() {
         return this.salario * 0.15;
-    }
+    } // depois que foi reescrito o método não pode ser mais invocado, porém podemos invocar dentro da classe.
 
     public boolean autentica(int senha) {
         if (this.senha == senha) {

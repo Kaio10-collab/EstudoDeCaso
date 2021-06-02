@@ -19,5 +19,9 @@ public class Main {
         Funcionario funcionario = new Funcionario();
         funcionario.setSalario(2000.0);
         System.out.println(funcionario.getBonificacao());
+
+        Ceo ceo = new Ceo();
+        ceo.setSalario(6000);
+        System.out.println(ceo.getBonificacao());
     }
 }
