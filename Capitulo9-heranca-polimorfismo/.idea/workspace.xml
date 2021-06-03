@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="572a6f87-b727-4421-a16f-ad701a1011e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo9-heranca-polimorfismo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Capitulo9-heranca-polimorfismo/com/br/zup/Ceo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Capitulo9-heranca-polimorfismo/com/br/zup/Funcionario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Capitulo9-heranca-polimorfismo/com/br/zup/Gerentes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Capitulo9-heranca-polimorfismo/com/br/zup/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Ceo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/ControleDeBonificacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Gerentes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Polimorfismo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Capitulo9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Capitulo9/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExercicioCapitulo9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicioCapitulo9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capitulo10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Capitulo10/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/zup/Gerentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/zup/Gerentes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/zup/Polimorfismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/zup/Polimorfismo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../capitulo10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../capitulo10/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
