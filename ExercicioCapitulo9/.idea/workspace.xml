@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b8051ee-9587-40dc-a6a6-8b52b7001c1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicioCapitulo9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/br/zup/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/zup/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/zup/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/zup/Arithmetic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,9 +95,22 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Bird$Solution">
-    <configuration name="Bird$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.br.zup.Bird$Solution" />
+  <component name="RunManager" selected="Application.Adder">
+    <configuration name="Adder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.br.zup.Adder" />
+      <module name="ExercicioCapitulo9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.br.zup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arithmetic$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.br.zup.Arithmetic$Solution" />
       <module name="ExercicioCapitulo9" />
       <extension name="coverage">
         <pattern>
@@ -127,7 +134,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bird$Solution" />
+        <item itemvalue="Application.Adder" />
+        <item itemvalue="Application.Arithmetic$Solution" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
