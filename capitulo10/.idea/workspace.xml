@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a256e49-d473-4390-99fa-9199cfa302e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExercicioCapitulo10/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioCapitulo10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioCapitulo10/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioCapitulo10/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioCapitulo10/ExercicioCapitulo10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioCapitulo10/src/com/br/zup/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Capitulo9-heranca-polimorfismo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Capitulo9-heranca-polimorfismo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Capitulo9-heranca-polimorfismo/src/com/br/zup/Gerentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Capitulo9-heranca-polimorfismo/src/com/br/zup/Gerentes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Capitulo9-heranca-polimorfismo/src/com/br/zup/Polimorfismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Capitulo9-heranca-polimorfismo/src/com/br/zup/Polimorfismo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
